@@ -1,0 +1,12 @@
+{
+    "name": "scaleplan/hstore",
+    "description": "Array to hstore converter",
+    "autoload": {
+        "psr-4": {
+            "Scaleplan\\Hstore\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
